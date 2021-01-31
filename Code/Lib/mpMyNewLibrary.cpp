@@ -21,7 +21,7 @@ namespace mp {
 //----------------------------------------------------------------------------
 void MyNewPrintFunction(std::vector<int> v)
 {
-    for (int x : v) {
+    for (auto x : v) {
         std::cout << x << " ";
     }
     std::cout << std::endl;
