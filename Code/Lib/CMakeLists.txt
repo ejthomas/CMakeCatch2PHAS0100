@@ -19,6 +19,7 @@ set(MYPROJECT_LIBRARY_SRCS
   mpMyFunctions.cpp
   mpException.cpp
   mpMyNewLibrary.cpp
+  mpAdding.cpp
 )
 
 set(MYPROJECT_LIBRARY_HDRS
