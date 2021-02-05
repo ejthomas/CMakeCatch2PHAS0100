@@ -1,7 +1,7 @@
 CMakeCatch2
 ------------------
 
-[![Build Status](https://travis-ci.com/MattClarkson/CMakeCatch2.svg?branch=master)](https://travis-ci.com/MattClarkson/CMakeCatch2)
+[![Build Status](https://travis-ci.com/ejthomas/CMakeCatch2PHAS0100.svg?token=yJbMpmdqexpcjxNCs8Dm&branch=master)](https://travis-ci.com/github/ejthomas/CMakeCatch2PHAS0100)
 [![Build Status](https://ci.appveyor.com/api/projects/status/5pm89ej732c1ekf0/branch/master)](https://ci.appveyor.com/project/MattClarkson/cmakecatch2)
 
 
